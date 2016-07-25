@@ -18,6 +18,9 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+/**
+ * 呵呵 我操你妈啊
+ */
 public class MainActivity extends AppCompatActivity {
     private ActivityUtils activityUtils;
     @Bind(R.id.btn_Login)
